@@ -84,7 +84,7 @@
     "prettier": "^3.2.5",
     "prettier-plugin-packagejson": "^2.5.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19.0.0",
     "sanity": "^3.37.2",
     "semantic-release": "^23.0.8",
     "styled-components": "^6.1.8",
